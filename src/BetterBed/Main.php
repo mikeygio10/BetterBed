@@ -1,6 +1,6 @@
 <?php
 
-namespace BetterBed;
+namespace ExZeEZ\BetterBed;
 
 
 
@@ -12,7 +12,8 @@ use pocketmine\plugin\Plugin;
 use pocketmine\plugin\PluginBase;
 use pocketmine\utils\TextFormat;
 
-class Main extends PluginBase {
+class Main extends PluginBase 
+{
     public function onEnable()/* : void /* TODO: uncomment this for next major version */
     {
         $this->getLogger()->info(TextFormat::GREEN . "BetterBed succesfully started!");
