@@ -1,6 +1,6 @@
 <?php
 
-namespace BetterBed;
+namespace ExZeEZ\BetterBed;
 
 
 
