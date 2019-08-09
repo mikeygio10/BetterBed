@@ -1,0 +1,6 @@
+name: BetterBed
+author: ExZeEZ
+api: 3.9.3
+version: 1.0
+main: BetterBed\Main
+description: Regenerate your heahlt while sleeping.
